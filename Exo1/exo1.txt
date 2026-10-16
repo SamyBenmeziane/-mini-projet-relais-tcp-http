@@ -1,0 +1,1 @@
+2- Relai testé sur une VM Linux et en local, tout fonctionne.
